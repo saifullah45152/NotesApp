@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class AddNote extends StatelessWidget {
   TextEditingController title = TextEditingController();
   TextEditingController content = TextEditingController();
-  CollectionReference ref = FirebaseFirestore.instance.collection('Notes');
+  CollectionReference ref = FirebaseFirestore.instance.collection('notes');
   @override
   Widget build(BuildContext context) {
     return Scaffold(

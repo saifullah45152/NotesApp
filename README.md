@@ -1,6 +1,6 @@
-# firebase_app
+# class_task
 
-A new Flutter application.
+A new Flutter project.
 
 ## Getting Started
 

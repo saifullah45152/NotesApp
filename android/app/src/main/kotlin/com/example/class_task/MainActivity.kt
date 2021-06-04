@@ -1,4 +1,4 @@
-package com.example.firebase_app
+package com.example.class_task
 
 import io.flutter.embedding.android.FlutterActivity
 
